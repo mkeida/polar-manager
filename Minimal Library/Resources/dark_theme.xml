@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <CONTROL_BACKGROUND>
+    <ThemeColor Normal="#161616" Hover="" Focus="" Disabled="#151515"/>
+  </CONTROL_BACKGROUND>
+  <CONTROL_FOREGROUND>
+    <ThemeColor Normal="#FFFFFF" Hover="" Focus="" Disabled="#444444"/>
+  </CONTROL_FOREGROUND>
+  <CONTROL_FILL>
+    <ThemeColor Normal="#343438" Hover="#404044" Focus="" Disabled="#252628"/>
+  </CONTROL_FILL>
+  <CONTROL_BORDER>
+    <ThemeColor Normal="#4C4C51" Hover="" Focus="" Disabled="#252628"/>
+  </CONTROL_BORDER>
+  <CONTROL_HIGHLIGHT>
+    <ThemeColor Normal="#535359" Hover="#727272" Focus="" Disabled=""/>
+  </CONTROL_HIGHLIGHT>
+  <FORM_BACKGROUND>
+    <ThemeColor Normal="#1F1F1F" Hover="" Focus="" Disabled=""/>
+  </FORM_BACKGROUND>
+  <WINDOW_CAPTIONBAR>
+    <ThemeColor Normal="#161616" Hover="#3E3F41" Focus="#FFFFFF" Disabled=""/>
+  </WINDOW_CAPTIONBAR>
+  <WINDOW_CLOSEBUTTON>
+    <ThemeColor Normal="#161616" Hover="#E81123" Focus="" Disabled=""/>
+  </WINDOW_CLOSEBUTTON>
+  <WINDOW_FOREGROUND>
+    <ThemeColor Normal="#FFFFFF" Hover="#E81123" Focus="" Disabled=""/>
+  </WINDOW_FOREGROUND>
+  <DARK_BASED>
+    <Bool Value="true"/>
+  </DARK_BASED>
+</root>
